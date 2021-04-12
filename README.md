@@ -1,5 +1,5 @@
 # Backup-Maquina-Virtual-no-Azure-com-PowerShell
-O script PowerShell para criar o Recovery Service Vault, criar uma politica de backup, habilitar o backup para um máquina virtual no Azure, executar o backup e verificar o status.
+Script PowerShell para criar o Recovery Service Vault, criar uma politica de backup, habilitar o backup para um máquina virtual no Azure, executar o backup e verificar o status.
 
 Conteúdo:
 
